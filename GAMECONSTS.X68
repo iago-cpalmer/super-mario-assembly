@@ -1,0 +1,23 @@
+PLSPEED     EQU     5*SPEEDMULTIPLIER       ; PLAYER VERTICAL SPEED
+GRAVITY     EQU     1*SPEEDMULTIPLIER       ; GRAVITY VALUE
+JMPFRCE     EQU     13*SPEEDMULTIPLIER      ; JUMP FORCE OF PLAYER
+MAXYDIE     EQU     13                      ; Y POSITION THAT HAS TO BE REACHED TO DIE
+ENBDIST     EQU     12                      ; MIN DISTANCE TO PLAYER IN ORDER TO BE ENABLED
+INVCTIM     EQU     3000                    ; INVINCIBILITY TIME WHEN PLAYER IS DAMAGED IN HUNDRETHS OF A SECOND
+
+
+
+
+
+
+
+
+
+
+
+
+
+*~Font name~Courier New~
+*~Font size~9~
+*~Tab type~0~
+*~Tab size~4~
